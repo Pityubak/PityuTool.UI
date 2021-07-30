@@ -26,9 +26,10 @@ Component for borderless windows forms
 
 
 
-#### Limitations 
+#### Note
 Previous version(1.0.0) make controls transparent by mouse, but this(1.1.4) use another approach.
 Drawing of the shadow is not perfect, and in my opinion the rounded shape is ugly.
+I no longer maintain it due to lack of time.
 
 #### Dependencies
 .NET Framework 3.5+
